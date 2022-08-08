@@ -2,8 +2,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https:////github.com/jmathezo)](https://github.com/jmathezo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-matheus-gon%C3%A7alves-dos-santos-2883003b/)](https://www.linkedin.com/in/jo%C3%A3o-matheus-gon%C3%A7alves-dos-santos-2883003b/)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jmathezo@hotmail.com)](mailto:jmathezo@hotmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmathezo@gmail.com)](mailto:jmathezo@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmathezo@Hotmail.com)](mailto:jmathezo@Hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/jmathezo/)](https://www.instagram.com/jmathezo/)
 
 I'm a .Net backend engineer. Professional experience whith the technologies listed in the toolbox below
